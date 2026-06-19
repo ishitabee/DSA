@@ -1,8 +1,8 @@
 //Binary Search using Java.
 //The algorithm searches through an array and returns index of the value.
 //This can work only with a sorted array.
-//Time complexity is log n base 2 for binary search only
-//This code uses bubble sort therefore the time complexity is n^2 becaue that is the worst case
+//Time complexity is log n (base 2) for binary search only.
+//This code uses bubble sort therefore the time complexity is n^2 because that is the worst case.
 
 
 import java.util.Scanner;
