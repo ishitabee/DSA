@@ -1,5 +1,6 @@
 //Linear Search using Java.
 //Searches the element you are looking for in the array and provides you with its position/index.
+//Time complexity for this is n.
 
 import java.util.Scanner;
 
