@@ -1,5 +1,5 @@
 //Binary Search using Java.
-//The algorithm searche through an array and returns index of the value.
+//The algorithm searches through an array and returns index of the value.
 //This can work only with a sorted array.
 
 
