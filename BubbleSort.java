@@ -1,6 +1,7 @@
 //Bubble Sort using Java.
 //Bubble Sort sorts an array from the lowest value to the highest value.
 //Compares the initial element with the next element and swaps if the initial element is greater than the next element until entire array is sorted.
+//Time complexity for this is n^2
 
 import java.util.Scanner;
 public class BubbleSort {
