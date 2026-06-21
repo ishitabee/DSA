@@ -1,6 +1,7 @@
 //Insertion Sort using java.
 /* Insertion Sort algorithm uses one part of the array to hold the sorted values,
  and the other part of the array to hold values that are not sorted yet.*/
+//Time complexity for this is n^2.
 
 import java.util.Scanner;
 
