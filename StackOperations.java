@@ -52,11 +52,11 @@ public class StackOperations {
 
                 case 3:
                     System.out.print("Enter element to push: ");
-                    String element = sc.next();
+                    String newElement = sc.next();
 
-                    myStack.push(element);
+                    myStack.push(newElement);
 
-                    System.out.println(element + " pushed into stack.");
+                    System.out.println(newElement + " pushed into stack.");
                     System.out.println("Updated Stack: " + myStack);
                     break;
 
