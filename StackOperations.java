@@ -52,11 +52,11 @@ public class StackOperations {
 
                 case 3:
                     System.out.print("Enter element to push: ");
-                    String newElement = sc.next();
+                    String element = sc.next();
 
-                    myStack.push(newElement);
+                    myStack.push(element);
 
-                    System.out.println(newElement + " pushed into stack.");
+                    System.out.println(element + " pushed into stack.");
                     System.out.println("Updated Stack: " + myStack);
                     break;
 
@@ -73,7 +73,7 @@ public class StackOperations {
                     break;
 
                 case 6:
-                    System.out.println("Is stack empty? " + myStack.isEmpty());
+                    System.out.println("Stack is empty " + myStack.isEmpty());
                     break;
 
                 case 7:
