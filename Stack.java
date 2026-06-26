@@ -63,13 +63,13 @@ public class Stack {
         
         Stack myStack = new Stack();
 
-        //pushing nodes into a stack
+        //pushing nodes into a stack.
         myStack.pushNode(1);
         myStack.pushNode(16);
         myStack.pushNode(22);
         myStack.pushNode(30);
 
-        //displaying the newly created stack
+        //displaying the newly created stack.
         System.out.println("\nStack: ");
         myStack.displayStack();
 
