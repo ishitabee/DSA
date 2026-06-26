@@ -1,4 +1,5 @@
 //Implementing Stacks using Linked Lists in Java.
+//Stacks follow Last IN First OUT
 
 class Node {
     int data;
