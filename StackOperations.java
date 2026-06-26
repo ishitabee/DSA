@@ -1,4 +1,5 @@
 //Making an elaborate menu of operations which the user can choose to implement on their stacks, using Java.
+//Stacks follow Last IN First OUT.
 
 import java.util.Scanner;
 import java.util.Stack;
